@@ -1,4 +1,5 @@
-"Unreal Engine Projects & Learning Journey
+"Unreal Engine Projects & Learning Journey"
+
 This repository showcases my Unreal Engine projects and progression. It includes:
 
 - Personal game development experiments
